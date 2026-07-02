@@ -1,0 +1,8 @@
+{
+  "name": "Free Host & FTP Explorer",
+  "description": "An interactive free hosting directory, free domain setup guide, real-time FTP port tester, FileZilla configuration generator, and AI-powered hosting recommender.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
